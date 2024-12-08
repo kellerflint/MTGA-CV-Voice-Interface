@@ -4,3 +4,8 @@ mss
 pytesseract
 keyboard
 easyocr
+openai-whisper
+pyaudio
+webrtcvad
+groq
+pyautogui

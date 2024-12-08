@@ -1,5 +1,6 @@
 .venv
 *.pt
+output.wav
 runs
 mtga_data
 label-studio-ml-backend
