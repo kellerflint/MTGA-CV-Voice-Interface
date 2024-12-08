@@ -1,3 +1,5 @@
 .venv
+*.pt
+runs
 mtga_data
 label-studio-ml-backend
