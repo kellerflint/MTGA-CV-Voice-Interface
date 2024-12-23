@@ -24,9 +24,19 @@ The application itself works as follows:
 
 ### Activate Virtual Environment
 
+Create venv
+```bash
+python -m venv .venv
+```
+
 Activate venv:
 ```bash
 .venv\Scripts\activate
+```
+
+Install from requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 From active venv:
@@ -35,8 +45,6 @@ ipython kernel install --user --name=.venv
 ```
 
 Create/open an ipynb file and select .venv as the kernel.
-
-Install from requirements.txt
 
 ### Labeling and Auto-Annotation
 
