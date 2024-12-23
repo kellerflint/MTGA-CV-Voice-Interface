@@ -44,7 +44,7 @@ From active venv:
 ipython kernel install --user --name=.venv
 ```
 
-Create/open an ipynb file and select .venv as the kernel (under the Jupyter options).
+Create/open an ipynb file and select .venv as the kernel.
 
 ### Labeling and Auto-Annotation
 
